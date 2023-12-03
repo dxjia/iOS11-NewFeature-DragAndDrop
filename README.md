@@ -1,9 +1,10 @@
+# 作者文章地址：
+![史上第二走心的 iOS11 Drag & Drop 教程](https://www.jianshu.com/p/92d21cc6de99)
+
 # iOS11-NewFeature
 
 
 可star或fork，接下来的更新更精彩！
-
-![本文主要介绍了iOS11的新特性 Drag&Drop，详情请查看博客]([http://www.jianshu.com/p/92d21cc6de99](https://www.jianshu.com/p/92d21cc6de99))
 
 
 ![](https://github.com/PengfeiWang666/iOS11-NewFeature/blob/master/NewFeature/guideImage/guide0%402x.png)
